@@ -16,6 +16,7 @@ crash.*.log
 *.tfvars
 *.tfvars.json
 *.tfvars.bak
+prompt.md
 
 .terraform.lock.hcl
 
